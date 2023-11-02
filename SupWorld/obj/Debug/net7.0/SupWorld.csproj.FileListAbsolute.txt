@@ -1,0 +1,14 @@
+C:\Users\micah\OneDrive\Desktop\Repos\SupWorld\SupWorld\bin\Debug\net7.0\SupWorld.exe
+C:\Users\micah\OneDrive\Desktop\Repos\SupWorld\SupWorld\bin\Debug\net7.0\SupWorld.deps.json
+C:\Users\micah\OneDrive\Desktop\Repos\SupWorld\SupWorld\bin\Debug\net7.0\SupWorld.runtimeconfig.json
+C:\Users\micah\OneDrive\Desktop\Repos\SupWorld\SupWorld\bin\Debug\net7.0\SupWorld.dll
+C:\Users\micah\OneDrive\Desktop\Repos\SupWorld\SupWorld\bin\Debug\net7.0\SupWorld.pdb
+C:\Users\micah\OneDrive\Desktop\Repos\SupWorld\SupWorld\obj\Debug\net7.0\SupWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micah\OneDrive\Desktop\Repos\SupWorld\SupWorld\obj\Debug\net7.0\SupWorld.AssemblyInfoInputs.cache
+C:\Users\micah\OneDrive\Desktop\Repos\SupWorld\SupWorld\obj\Debug\net7.0\SupWorld.AssemblyInfo.cs
+C:\Users\micah\OneDrive\Desktop\Repos\SupWorld\SupWorld\obj\Debug\net7.0\SupWorld.csproj.CoreCompileInputs.cache
+C:\Users\micah\OneDrive\Desktop\Repos\SupWorld\SupWorld\obj\Debug\net7.0\SupWorld.dll
+C:\Users\micah\OneDrive\Desktop\Repos\SupWorld\SupWorld\obj\Debug\net7.0\refint\SupWorld.dll
+C:\Users\micah\OneDrive\Desktop\Repos\SupWorld\SupWorld\obj\Debug\net7.0\SupWorld.pdb
+C:\Users\micah\OneDrive\Desktop\Repos\SupWorld\SupWorld\obj\Debug\net7.0\SupWorld.genruntimeconfig.cache
+C:\Users\micah\OneDrive\Desktop\Repos\SupWorld\SupWorld\obj\Debug\net7.0\ref\SupWorld.dll
